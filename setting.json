@@ -1,0 +1,80 @@
+{
+"editor.tokenColorCustomizations": {
+    "textMateRules": [
+        {
+            "scope": "constant.other.haskell",
+            "settings": {
+                "foreground": "#C586C0"
+            }
+        },
+
+        {
+            "scope": "source.haskell",
+            "settings": {
+                "foreground": "#9CDCFE"
+            }
+        },
+        {
+            "scope": "punctuation.paren.haskell",
+            "settings": {
+                "foreground": "#DCDCAA"
+            }
+        },
+        {
+            "scope": "keyword.operator.pipe.haskell",
+            "settings": {
+                "foreground":"#C586C0"
+            }
+        },
+
+        {
+            "scope": "punctuation.bracket.haskell",
+            "settings": {
+                "foreground": "#569CD6"
+            }
+        },
+        {
+            "scope": "keyword.operator.arrow.left.haskell",
+            "settings": {
+                "foreground": "#808080"
+            }
+        },
+
+        {
+            "scope": "keyword.operator.arrow.haskell",
+            "settings": {
+                "foreground": "#808080"
+            }
+        },
+
+        {
+            "scope": "keyword.operator.infix.haskell",
+            "settings": {
+                "foreground": "#C586C0"
+            }
+        },
+
+        {
+            "scope": "storage.type.haskell",
+            "settings": {
+                "foreground": "#4EC9B0"
+            }
+        },
+
+        {
+            "scope": "meta.function.type-declaration.haskell",
+            "settings": {
+                "foreground": "#569CD6"
+            }
+        }
+    ]
+},
+
+"todohighlight.keywords": [
+    {
+        "text": " otherwise ",
+        "color": "#C586C0",
+        "backgroundColor": "none"
+    }
+]
+}
